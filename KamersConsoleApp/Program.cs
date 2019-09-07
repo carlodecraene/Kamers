@@ -26,6 +26,7 @@ namespace KamersConsoleApp
                 {
                     Console.WriteLine("Stukje is niet gevonden");
                     Console.ReadLine();
+                    Console.WriteLine("Dinge");
                     
                 }
                 else
